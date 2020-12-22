@@ -3,7 +3,7 @@
 ### Bem vindo a minha página!
 
 <p>
- Meu nome é Joyce Melo sou Fullstack developer na DTI digital 
+ Meu nome é Joyce Melo sou Fullstack developer na
   <img width="16" src="https://www.dtidigital.com.br/wp-content/uploads/2019/12/logo-dti-preta.png" alt="DTI" />
 </p>
 
@@ -61,10 +61,9 @@
 
 **Ferramentas de Negócio**
 
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
-<code><img height="32" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/873/873107.svg" alt="Azure"/></code>
 
 <br/>
 
