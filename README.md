@@ -11,11 +11,11 @@
 
 ### Vamos ao pontos pessoais 
 
-- 👩🏻‍🚀 Gosto de ouvir músicas;
+- :musical_score: Gosto de ouvir músicas;
 
 - 👩🏻‍💻 Atualmente estou trabalhando com tecnologias novas que estão sendo desafiadoras;
 
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;;
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
 - 🏆 Meu desafio diário é conseguir fazer doces ao fim do dia 
 
