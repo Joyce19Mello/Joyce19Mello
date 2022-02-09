@@ -3,8 +3,8 @@
 ### Bem vindo a minha página!
 
 <p>
- Meu nome é Joyce Melo sou Fullstack developer na DTI digital
-  <img width="16" src="https://www.dtidigital.com.br/wp-content/uploads/2019/12/logo-dti-preta.png" alt="DTI" />
+ Meu nome é Joyce Melo sou Fullstack developer na CI&T
+  <img width="16" src="https://media.glassdoor.com/sqll/140265/ci-and-t-squarelogo.png" alt="CI&T" />
 </p>
 
 <br/>
